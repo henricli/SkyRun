@@ -15,7 +15,6 @@
 
 ## 📷 Capturas de Tela *(em breve)*
 
-> Adicione aqui imagens do seu jogo mais tarde:
 - [ ] Tela inicial
 - [ ] Jogador em ação
 - [ ] Tela de Game Over
